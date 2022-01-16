@@ -1,3 +1,3 @@
 #### Dissertation
 
-![image](gantt.jpg){:height="50%" width="50%"}
+<img src="https://github.com/ZaraBhatti/Dissertation/gantt.jpg" width=50% height=50%>
