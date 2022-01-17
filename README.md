@@ -33,9 +33,9 @@ The Root Mean Squared Error (RMSE) metric will be used to evaluate the regressio
 **Classification:**
 Accuracy and F1-score will evaluate the classification models. The Mann-Whitney U Test will again be used for statistical analysis of the models.
 
+  
 </p>
 </details>
-
 
 <details><summary>INDICATORS</summary>
 <p>
@@ -55,9 +55,9 @@ There are 10 indicators that will be used as input:
 | Momentum  | Relative Strength Indicator (RSI)  |
 | Momentum  | Williams %R  |
 
+  
 </p>
 </details>
- 
  
 <details><summary>RESULTS</summary>
 <p>
