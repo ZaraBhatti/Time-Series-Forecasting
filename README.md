@@ -2,7 +2,7 @@
 
 The purpose of this project is to combine machine learning techniques with a variety of indicators used by traders to predict cryptocurrency prices. This project focuses on the prediction for Ethereum (ETH) cryptocurrency.
 
-<details><summary>SCHEDULE</summary>
+<details><summary>SCHEDULE (Gantt Chart)</summary>
 <p>
 
 <img src="https://github.com/ZaraBhatti/Dissertation/blob/main/gantt.jpg" width=75% height=75%>
@@ -36,6 +36,7 @@ Accuracy and F1-score will evaluate the classification models. The Mann-Whitney 
 </p>
 </details>
 
+
 <details><summary>INDICATORS</summary>
 <p>
 
@@ -56,6 +57,7 @@ There are 10 indicators that will be used as input:
 
 </p>
 </details>
+ 
  
 <details><summary>RESULTS</summary>
 <p>
