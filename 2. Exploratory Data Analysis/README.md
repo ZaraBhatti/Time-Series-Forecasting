@@ -1,1 +1,4 @@
-
+- As part of Exploratory Data Analysis (EDA), the Ethereum dataset undergoes preprocessing to convert values to a readable format and drop any unnecessary features.
+- Matplotlib and Seaborn are used to visualise the dataset and determine its distribution, trend and autocorrelation amongst other things.
+- statsmodel and scipy python libraries are used to quantitatively assess the stationarity of the dataset as it is a time series and its normality, respectively.
+- The dataset is split into training (61.45%), validation (12.7%) and test sets (25.85%).
