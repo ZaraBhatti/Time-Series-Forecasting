@@ -2,6 +2,8 @@
 
 The purpose of this project is to combine machine learning techniques with a variety of indicators used by traders to predict cryptocurrency prices. This project focuses on predictions for Ethereum (ETH) cryptocurrency.
 
+*All of the code is contained within Jupyter Notebooks. Within each notebook there are comments alongside the code for guidance and URLs are given where the code has been inspired or taken from another source.*
+
 <details><summary>PLAN</summary>
 <p>
 
