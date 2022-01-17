@@ -1,14 +1,6 @@
-### University Dissertation - 'Evaluating the use of different data as input for neural networks in the prediction of Ethereum cryptocurrency prices'
+####  Evaluating the use of different indicators as input for neural networks in the prediction of Ethereum cryptocurrency prices
 
-The purpose of this project is to combine machine learning techniques with a variety of indicators used by traders to predict cryptocurrency prices. This project focuses on the prediction for Ethereum (ETH) cryptocurrency.
-
-<details><summary>SCHEDULE (Gantt Chart)</summary>
-<p>
-
-<img src="https://github.com/ZaraBhatti/Dissertation/blob/main/gantt.jpg" width=75% height=75%>
-  
-</p>
-</details> 
+The purpose of this project is to combine machine learning techniques with a variety of indicators used by traders to predict cryptocurrency prices. This project focuses on predictions for Ethereum (ETH) cryptocurrency.
 
 <details><summary>PLAN</summary>
 <p>
