@@ -19,10 +19,10 @@ The purpose of the classification task is to compare the best performing regress
 
 #### Metrics & Statistical Analysis
 
-**Regression:**
+*Regression:*
 The Root Mean Squared Error (RMSE) metric will be used to evaluate the regression models. The Mann-Whitney U Test will then be used to statistically compare metrics between the baseline models (using standard ETH prices as input) and each of the experimental models (utilising different technical indicators as input) of the same architecture.
 
-**Classification:**
+*Classification:*
 Accuracy and F1-score will evaluate the classification models. The Mann-Whitney U Test will again be used for statistical analysis of the models.
 
   
