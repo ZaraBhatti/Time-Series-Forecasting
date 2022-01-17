@@ -7,14 +7,14 @@ The purpose of this project is to combine machine learning techniques with a var
 
 Both regression and classification algorithms are to be explored. 
 
-#### Regression
+#### Regression Models
 To predict the future price of ETH, three Long Short-Term Memory (LSTM) neural network architectures will be created: 
 
 - Many-to-Many Multi-Step LSTM (MM-LSTM)
 - Encoder-Decoder LSTM (ED-LSTM)
 - Bidirectional LSTM (BiLSTM)
 
-#### Classification
+#### Classification Model
 The purpose of the classification task is to compare the best performing regression model with the same LSTM architecture but applied to classification instead. This model will aim to predict if the price will move up or down. Therefore the neural network architecture to be used will be determined after completion of the regression task. 
 
 #### Metrics & Statistical Analysis
